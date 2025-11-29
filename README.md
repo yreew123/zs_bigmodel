@@ -6,7 +6,8 @@
 
 - Node.js (v16 或更高版本)
 - npm (随 Node.js 一起安装)
-
+- Windows用户 ；可使用 /预览文件/start.bat 进行预览
+- maxos Linux 用户：使用 /预览文件/start.sh 进行预览
 ## 安装 Node.js
 
 ### macOS / Windows 安装方法：
