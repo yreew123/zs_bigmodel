@@ -9,7 +9,7 @@
 
 ## 安装 Node.js
 
-### macOS 安装方法：
+### macOS / Windows 安装方法：
 
 **方法 1：使用 Homebrew（推荐）**
 ```bash
